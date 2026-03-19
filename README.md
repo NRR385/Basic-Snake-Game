@@ -78,7 +78,7 @@ Snake-Game/
 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/snake-game.git
+git clone https://github.com/NRR385/Basic-Snake-Game.git
 ```
 
 2. Open `index.html` in your browser
